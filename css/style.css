@@ -1,0 +1,45 @@
+#contacts, #info, #feedback {
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+}
+body {
+    background-color: #f0f0f0; 
+    font-family: monospace;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #333; 
+  }
+  
+  p {
+    font-size: 20px; 
+    line-height: 1.5; 
+  }
+  
+  #contacts, #info, #feedback {
+    padding: 20px;
+    border: 1px solid #ccc; 
+    margin: 10px 0; 
+  }
+  
+  #navigation ul {
+    list-style-type: none;
+    padding: 0; 
+  }
+  
+  #navigation ul li {
+    display: inline; 
+    margin-right: 10px; 
+  }
+  
+  #navigation ul li a {
+    color: #2b1ac5; 
+    text-decoration: none;
+  }
+  
+  #navigation ul li a:hover {
+    color: rgb(57, 39, 99); 
+  }
+  
+
